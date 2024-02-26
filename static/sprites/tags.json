@@ -1,0 +1,192 @@
+{
+    "en": {
+        "sprites": [
+            {
+                "key": "All",
+                "value": "SPRITE.CLASSIFY.ALL"
+            },
+            {
+                "key": "Animals",
+                "value": "SPRITE.CLASSIFY.ANIMALS"
+            },
+            {
+                "key": "People",
+                "value": "SPRITE.CLASSIFY.PEOPLE"
+            },
+            {
+                "key": "Fantasy",
+                "value": "SPRITE.CLASSIFY.FANTASY"
+            },
+            {
+                "key": "Plants",
+                "value": "SPRITE.CLASSIFY.PLANTS"
+            },
+            {
+                "key": "Food",
+                "value": "SPRITE.CLASSIFY.FOOD"
+            },
+            {
+                "key": "Buildings",
+                "value": "SPRITE.CLASSIFY.BUILDINGS"
+            },
+            {
+                "key": "Transportation",
+                "value": "SPRITE.CLASSIFY.TRANSPORTATION"
+            },
+            {
+                "key": "Music",
+                "value": "SPRITE.CLASSIFY.MUSIC"
+            },
+            {
+                "key": "Sports",
+                "value": "SPRITE.CLASSIFY.SPORTS"
+            },
+            {
+                "key": "Fashion",
+                "value": "SPRITE.CLASSIFY.FASHION"
+            },
+            {
+                "key": "Props",
+                "value": "SPRITE.CLASSIFY.PROPS"
+            },
+            {
+                "key": "Icons",
+                "value": "SPRITE.CLASSIFY.ICONS"
+            }
+        ],
+        "backdrops": [
+            {
+                "key": "All",
+                "value": "SPRITE.CLASSIFY.ALL"
+            },
+            {
+                "key": "School",
+                "value": "SPRITE.CLASSIFY.SCHOOL"
+            },
+            {
+                "key": "Nature",
+                "value": "SPRITE.CLASSIFY.NATURE"
+            },
+            {
+                "key": "City",
+                "value": "SPRITE.CLASSIFY.CITY"
+            },
+            {
+                "key": "Outdoors",
+                "value": "SPRITE.CLASSIFY.OUTDOORS"
+            },
+            {
+                "key": "Indoors",
+                "value": "SPRITE.CLASSIFY.INDOORS"
+            },
+            {
+                "key": "Space",
+                "value": "SPRITE.CLASSIFY.SPACE"
+            },
+            {
+                "key": "Holidays",
+                "value": "SPRITE.CLASSIFY.HOLIDAYS"
+            },
+            {
+                "key": "Grid",
+                "value": "SPRITE.CLASSIFY.GRID"
+            }
+        ],
+        "sounds": [
+            {
+                "key": "All",
+                "value": "SPRITE.CLASSIFY.ALL"
+            },
+            {
+                "key": "Animals",
+                "value": "SPRITE.CLASSIFY.ANIMALS"
+            },
+            {
+                "key": "Effects",
+                "value": "SPRITE.CLASSIFY.EFFECTS"
+            },
+            {
+                "key": "Loops",
+                "value": "SPRITE.CLASSIFY.LOOPS"
+            },
+            {
+                "key": "Notes",
+                "value": "SPRITE.CLASSIFY.NOTES"
+            },
+            {
+                "key": "Percussion",
+                "value": "SPRITE.CLASSIFY.PERCUSSION"
+            },
+            {
+                "key": "Space",
+                "value": "SPRITE.CLASSIFY.SPACE"
+            },
+            {
+                "key": "Sports",
+                "value": "SPRITE.CLASSIFY.SPORTS"
+            },
+            {
+                "key": "Voice",
+                "value": "SPRITE.CLASSIFY.VOICE"
+            },
+            {
+                "key": "Wacky",
+                "value": "SPRITE.CLASSIFY.WACKY"
+            }
+        ],
+        "costumes": [
+            {
+                "key": "All",
+                "value": "SPRITE.CLASSIFY.ALL"
+            },
+            {
+                "key": "Animals",
+                "value": "SPRITE.CLASSIFY.ANIMALS"
+            },
+            {
+                "key": "People",
+                "value": "SPRITE.CLASSIFY.PEOPLE"
+            },
+            {
+                "key": "Fantasy",
+                "value": "SPRITE.CLASSIFY.FANTASY"
+            },
+            {
+                "key": "Plants",
+                "value": "SPRITE.CLASSIFY.PLANTS"
+            },
+            {
+                "key": "Food",
+                "value": "SPRITE.CLASSIFY.FOOD"
+            },
+            {
+                "key": "Buildings",
+                "value": "SPRITE.CLASSIFY.BUILDINGS"
+            },
+            {
+                "key": "Transportation",
+                "value": "SPRITE.CLASSIFY.TRANSPORTATION"
+            },
+            {
+                "key": "Music",
+                "value": "SPRITE.CLASSIFY.MUSIC"
+            },
+            {
+                "key": "Sports",
+                "value": "SPRITE.CLASSIFY.SPORTS"
+            },
+            {
+                "key": "Fashion",
+                "value": "SPRITE.CLASSIFY.FASHION"
+            },
+            {
+                "key": "Props",
+                "value": "SPRITE.CLASSIFY.PROPS"
+            },
+            {
+                "key": "Icons",
+                "value": "SPRITE.CLASSIFY.ICONS"
+            }
+        ]
+    }
+}

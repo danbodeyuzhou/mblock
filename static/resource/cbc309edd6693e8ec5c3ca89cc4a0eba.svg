@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/勾选</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="icon/勾选" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="勾选">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="蒙版"></g>
+            <path d="M14.62234,2.90126179 C15.1258867,3.43627751 15.1258867,4.30370937 14.62234,4.83872509 L6.83100526,13.1169774 C6.35034706,13.6276742 5.57104614,13.6276742 5.09038793,13.1169774 L1.36049365,9.15398426 C0.879835449,8.64328744 0.879835449,7.8152843 1.36049365,7.30458748 C1.84115186,6.79389065 2.62045278,6.79389065 3.10111098,7.30458748 L5.87795511,10.2541772 L12.7988361,2.90126179 C13.3023828,2.36624607 14.1187933,2.36624607 14.62234,2.90126179 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

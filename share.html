@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>mBlock</title>
+    </head>
+
+    <body>
+        <script>
+            var url = window.location.href;
+            var hash = url.split('?');
+            try {
+                var ps = hash && hash[1] && hash[1].split('&');
+                var id = ps[0];
+                // var imgSrc = ps[1];
+                // document.getElementById('thumbnail').src = imgSrc;
+
+                var editor = '';
+                if (url.indexOf('test-web.mblock.cc') !== -1) {
+                    editor =
+                        'https://' +
+                        location.host +
+                        '/ide/index.html#/?cloudProjectId=' +
+                        id;
+                } else {
+                    editor =
+                        'https://' + location.host + '/#/?cloudProjectId=' + id;
+                }
+                setTimeout(() => {
+                    window.location.href = editor;
+                }, 0);
+            } catch (e) {
+                //
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="154px" viewBox="0 0 280 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>插图/裂图</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="280" height="154"></rect>
+    </defs>
+    <g id="插图/裂图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="裂图">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="矩形"></g>
+            <g id="Group-6" mask="url(#mask-2)">
+                <g transform="translate(50.000000, 12.000000)">
+                    <rect id="Rectangle" stroke="#DADEE3" stroke-width="4" fill="#E9ECEF" x="2" y="2" width="176" height="131" rx="9"></rect>
+                    <path d="M111.058565,53.2740617 L157.628229,106.592553 L28.8,106.592553 L62.3127488,68.1333134 L80.175,88.632 L111.058565,53.2740617 Z M44.4682981,28.8 C50.7179485,28.8 55.7842912,33.8873692 55.7842912,40.1629572 C55.7842912,46.4385452 50.7179485,51.5259144 44.4682981,51.5259144 C38.2186477,51.5259144 33.152305,46.4385452 33.152305,40.1629572 C33.152305,33.8873692 38.2186477,28.8 44.4682981,28.8 Z" id="Combined-Shape-Copy-5" stroke="none" fill="#DADEE3"></path>
+                    <polygon id="Path-2" stroke="none" fill="#FFFFFF" points="79.2613453 0 57.6 33.3376633 98.3272951 62.2129347 79.2613453 92.355822 116.234396 135 121.231513 135 96.0350788 88.9057978 121.603947 64.6827847 90.2126288 29.2357365 116.959932 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+    "version": "v3.0.30",
+    "supportLangs": {
+        "en": {
+            "name": "English"
+        },
+        "zh": {
+            "name": "简体中文"
+        }
+    }
+}
